@@ -1,0 +1,11 @@
+console.log("Up and running!");
+var cardOne = "queen";
+var cardTwo = "queen";
+var cardThree = "king";
+var cardTwo = "king";
+queen = "cardOne";
+queen = "cardTwo";
+king = "cardThree";
+king = "cardFour";
+console.log("User flipped " + cardOne);
+console.log("User flipped " + cardThree);
