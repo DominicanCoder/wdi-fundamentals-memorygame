@@ -77,7 +77,7 @@ footer{
 	font-family: Raleway;
 }
 
-.clearfix:after {
+.clearfix: after {
   visibility: hidden;
   display: block;
   content: " ";
